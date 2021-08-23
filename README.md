@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-to visualize React Website click ti this link https://z2949.csb.app/
+to visualize React Website click in this link https://z2949.csb.app/
 
 ## Available Scripts
 

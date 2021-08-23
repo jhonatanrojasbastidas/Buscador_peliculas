@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/css/main.37e3909d.chunk.css",
-    "main.js": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/main.e3ae3d15.chunk.js",
-    "main.js.map": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/main.e3ae3d15.chunk.js.map",
-    "runtime-main.js": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/runtime-main.c812b5e9.js",
-    "runtime-main.js.map": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/runtime-main.c812b5e9.js.map",
-    "static/js/2.be6910a4.chunk.js": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/2.be6910a4.chunk.js",
-    "static/js/2.be6910a4.chunk.js.map": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/2.be6910a4.chunk.js.map",
-    "index.html": "/jhonatanrojasbastidas/Buscador_peliculas.git/index.html",
-    "static/css/main.37e3909d.chunk.css.map": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/css/main.37e3909d.chunk.css.map",
-    "static/js/2.be6910a4.chunk.js.LICENSE.txt": "/jhonatanrojasbastidas/Buscador_peliculas.git/static/js/2.be6910a4.chunk.js.LICENSE.txt"
+    "main.css": "/jhonatanrojasbastidas/Buscador_peliculas/static/css/main.37e3909d.chunk.css",
+    "main.js": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/main.e3ae3d15.chunk.js",
+    "main.js.map": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/main.e3ae3d15.chunk.js.map",
+    "runtime-main.js": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/runtime-main.1bfa35b1.js",
+    "runtime-main.js.map": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/runtime-main.1bfa35b1.js.map",
+    "static/js/2.be6910a4.chunk.js": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/2.be6910a4.chunk.js",
+    "static/js/2.be6910a4.chunk.js.map": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/2.be6910a4.chunk.js.map",
+    "index.html": "/jhonatanrojasbastidas/Buscador_peliculas/index.html",
+    "static/css/main.37e3909d.chunk.css.map": "/jhonatanrojasbastidas/Buscador_peliculas/static/css/main.37e3909d.chunk.css.map",
+    "static/js/2.be6910a4.chunk.js.LICENSE.txt": "/jhonatanrojasbastidas/Buscador_peliculas/static/js/2.be6910a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c812b5e9.js",
+    "static/js/runtime-main.1bfa35b1.js",
     "static/js/2.be6910a4.chunk.js",
     "static/css/main.37e3909d.chunk.css",
     "static/js/main.e3ae3d15.chunk.js"
